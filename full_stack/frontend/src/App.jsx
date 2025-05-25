@@ -284,8 +284,9 @@ function App() {
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white min-h-screen">
       <h1 className="text-3xl font-bold mb-8 text-center text-blue-600">
-        🌤️ Weather App
+        🌤️ Weather App by Adarsh Veerapaneni
       </h1>
+      <h4>The Product Manager Accelerator Program is designed to support PM professionals through every stage of their careers. From students looking for entry-level jobs to Directors looking to take on a leadership role, our program has helped over hundreds of students fulfill their career aspirations.</h4>
 
       {/* Input Type Selection */}
       <div className="mb-4">
